@@ -1,0 +1,93 @@
+OpenCV = 5.0.0
+NumPy = 2.5.3
+
+logs-1.jpg
+medianBlur = 5
+roi = (335, 0, 1020, 795)
+pass = 1
+dp = 1.0
+minDist = 48
+param1 = 140
+param2 = 31
+minRadius = 16
+maxRadius = 80
+
+logs-2.jpg
+medianBlur = 7
+roi = (230, 50, 850, 780)
+pass = 1
+dp = 1.0
+minDist = 44
+param1 = 140
+param2 = 27
+minRadius = 14
+maxRadius = 75
+
+logs-3.jpg
+medianBlur = 5
+roi = (350, 900, 805, 1415)
+pass = 1
+dp = 1.0
+minDist = 30
+param1 = 180
+param2 = 24
+minRadius = 10
+maxRadius = 50
+
+logs-4.jpg
+medianBlur = 7
+roi = full image
+pass = 1
+dp = 1.0
+minDist = 20
+param1 = 500
+param2 = 14
+minRadius = 6
+maxRadius = 25
+
+pipes-4.jpg
+medianBlur = 3
+roi = full image
+pass = 1
+dp = 1.0
+minDist = 19
+param1 = 140
+param2 = 24
+minRadius = 8
+maxRadius = 24
+
+pipes-5.jpg
+medianBlur = 3
+roi = full image
+pass = 1
+dp = 1.0
+minDist = 17
+param1 = 140
+param2 = 23
+minRadius = 5
+maxRadius = 30
+pass = 2
+dp = 1.0
+minDist = 120
+param1 = 140
+param2 = 36
+minRadius = 65
+maxRadius = 110
+
+pipes-6.jpg
+medianBlur = 5
+roi = full image
+pass = 1
+dp = 1.0
+minDist = 35
+param1 = 200
+param2 = 34
+minRadius = 12
+maxRadius = 45
+pass = 2
+dp = 1.0
+minDist = 180
+param1 = 180
+param2 = 75
+minRadius = 85
+maxRadius = 165
